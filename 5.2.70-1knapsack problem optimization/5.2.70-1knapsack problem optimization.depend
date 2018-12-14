@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544798675 source:e:\workspace\interesting algorithm\5.2.70-1knapsack problem optimization\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+
