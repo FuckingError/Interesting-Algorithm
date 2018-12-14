@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537765401 source:e:\c++程序设计\2.5单源最短路径\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<stack>
+

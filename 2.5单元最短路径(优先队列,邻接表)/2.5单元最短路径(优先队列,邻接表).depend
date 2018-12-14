@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539058555 source:e:\趣学算法\2.5单元最短路径(优先队列,邻接表)\main.cpp
+	<iostream>
+	<cstring>
+	<queue>
+

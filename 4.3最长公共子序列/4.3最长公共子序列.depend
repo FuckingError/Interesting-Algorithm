@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539440880 source:e:\趣学算法\4.3最长公共子序列\main.cpp
+	<iostream>
+	<cstring>
+

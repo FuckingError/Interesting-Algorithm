@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538990537 source:e:\c++程序设计\2.6哈夫曼树(优先队列、动态数组)\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+
